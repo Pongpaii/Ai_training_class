@@ -1,0 +1,6 @@
+train:
+val:
+test:
+
+nc: 5
+names:['Beabadoobee','Lone','Gojo','Yuji','Guappo']
